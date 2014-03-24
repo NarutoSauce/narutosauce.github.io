@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Naruto Sauce
+tagline:          'My Naruto Anime and Manga Blog!'
+description:      'The destination for all your Naruto news, predictions and theories.'
+url:              http://narutosauce.eu
+
+author:
+  name:           'Tobi Uchiha'
+  url:            http://narutosauce.eu
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/narutosauce
