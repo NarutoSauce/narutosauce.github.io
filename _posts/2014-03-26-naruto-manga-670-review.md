@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Naruto Manga 670 Review
-description: Naruto manga 670 review.
-category: Manga Review
+description: Naruto manga 670 The Beginning review.
+category: manga-review
 thumbnail: /assets/images/postthumbs/670.jpg
 tags: [manga, review]
 ---
