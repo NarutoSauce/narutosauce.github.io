@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Naruto Manga 669 Review
-description: Naruto manga 669 Hachimon Tonkou no Jin...!! review.
+title: Naruto Manga 670 Review
+description: Naruto manga 670 The Beginning review.
 category: manga-review
-thumbnail: /assets/images/postthumbs/669.jpg
+thumbnail: /assets/images/postthumbs/670.jpg
 tags: [manga, review]
 ---
 
-**669: Hachimon Tonkou no Jin...!!**
+**670: The Beginning**
 
 Last weeks chapter ended with Naruto waking up and as many fans predicted, Naruto actually woke up in a similar place as to where he usually meets Kurama and not the Kamui world.
 
