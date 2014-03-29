@@ -7,13 +7,13 @@ title: Test
 	{% for post in site.categories.manga-review limit:1 %}
 	<div class="unit half">
 		<span class="small-header">Latest Manga Review</span>
-		<p><a href="{{ post.url }}"><img src="{{ post.thumbnail }}" alt="{{ post.title }}"/></a></p>
+		<p><a href="{{ post.url }}"><img src="{{ post.thumbnail }}" alt="{{ post.title }}"/><h1 class="post-title">{{ post.title }}</h1></a></p>
 	</div>
 	{% endfor %}
 	{% for post in site.categories.anime-review limit:1 %}
  	<div class="unit half">
 		<span class="small-header">Latest Anime Review</span>
-		<p><a href="{{ post.url }}"><img src="{{ post.thumbnail }}" alt="{{ post.title }}"/></a></p>
+		<p><a href="{{ post.url }}"><img src="{{ post.thumbnail }}" alt="{{ post.title }}"/><h1 class="post-title">{{ post.title }}</h1></a></p>
 	</div>
 	{% endfor %}
 </div>
